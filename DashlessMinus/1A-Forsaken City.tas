@@ -1,0 +1,66 @@
+# DashlessMinus
+# https://gamebanana.com/mods/532373
+
+RecordCount: 150
+
+console load "JanexTheHero1/DashlessMinus/1A-Forsaken City Dashless-"
+   1
+
+#Start
+ 190
+
+#lvl_1
+***S
+   1,R,J
+  14,R
+***
+   6,R,J
+  14,R
+   1,R,J,G
+   1,R,K,G
+  10,R
+***
+  21,R,J
+   9,R,K,G
+   7,R
+***S
+   6,R,J
+  18,R
+  41,R,J
+***
+  12,K,G
+   3,J,G
+   8,R
+  11,R,J
+***
+   1,K,G
+  10,L,K
+   7,R,J
+***
+  40
+
+#lvl_2
+  33,R
+***S
+  10,R,J
+  14,R
+***
+  10
+  28,R
+   2
+   4,R,D
+***
+   1,R,J,G
+  21,R,K,G
+  24,R,D
+  11,R,J
+   1,R,K,G
+  11,R
+  18,R,J
+***S
+Repeat, 2
+  12,L,K
+  12,R,J
+EndRepeat
+   3,L,K
+  40,L
