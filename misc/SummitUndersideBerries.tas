@@ -1,0 +1,110 @@
+# SummitUnderside
+
+# https://gamebanana.com/mods/606189
+
+RecordCount: 2200
+
+console load Nik/SummitUndersideCampaign/SummitUnderside
+   1
+
+#StartRecording
+
+#Start
+ 190
+#lvl_00
+   1,J
+  13
+   4,R,Z
+   1,R,J
+   4,R
+   1,R,J,G
+   6,R,K,G
+   3,R,J,G
+   3,R,K,G
+  17,R
+  15,R,D,X
+Repeat, 8
+   1,R,J
+   4,R
+EndRepeat
+  12,R,J
+   6,R,K
+  12,R,J
+  12,K,G
+  10,J,G
+  15,R,Z
+Repeat, 3
+   1,R,J
+   4,R
+EndRepeat
+  40
+
+#lvl_01
+Read, SummitUnderside, lvl_01, lvl_07
+
+# lvl_07
+   1,R,J
+  10
+   5,R,Z
+   3,R,J
+   3,R
+   8,R,J,G
+   2,R,K,G
+  11,R
+  10,R,J
+   2,R,K,G
+   5,R,Z
+   1,R,J
+   7,R
+  12,R,J
+  10,R,Z
+   5,L,J
+  15,L,D,X
+   3,L,J
+  15,L,D,X
+   3,L,J
+  15,L,D,X
+  37,L,J
+Read, SummitUnderside, lvl_07_climb, lvl_07_red
+   5,L,X
+ 100
+  14,L,D,X
+   4,L,J
+   4,L,K,G
+   3,L
+   4,L,J,G
+   6,L,X
+   3,L,J,G
+   4,L
+   2,L,J,G
+   7,L
+   2,L,J
+   8,L
+   5,L,J
+   1,R
+   8,L,J
+  10,R,J
+   1,R
+   1
+   1,R
+   9,R,Z
+   1,R,J
+   7,R
+  12,R,J
+  15,R,D,X
+   6,R,J
+   1,J
+  15,R,D,X
+   1,R,J
+   2
+  15,R,D,X
+   1,R
+  48,R,J
+  27,R,U,J,C
+Read, SummitUnderside, lvl_07_red, Heart
+ChapterTime: 1:04.668(3804)
+  59
+   1,J
+ 196
+
+#StopRecording
